@@ -10,3 +10,7 @@ edition = "2021"
 [[bin]]
 name = "rust_homework1"
 path = "src/rust_homework1/rust_homework1.rs"
+
+[[bin]]
+name = "bootcamp_homework2"
+path = "src/bootcamp_homework2/bootcamp_homework2.rs"

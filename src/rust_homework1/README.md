@@ -35,7 +35,7 @@ In this homework, I am to create a simple Rust program that demonstrates the con
 Use this command after downloading the code:
 
 ```bash
-cargo run --bin rust_homework1.rs
+cargo run --bin rust_homework1
 ```
 
 This will compile and execute the `rust_homework1` binary.
