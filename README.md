@@ -2,11 +2,15 @@
 
 ## Table of Contents
 
+- [Description](#description)
 - [Navigation](#navigation)
 - [Bootcamp](#bootcamp)
-- [Description](#description)
 - [Usage](#usage)
 - [License](#license)
+
+## Description
+
+This repository is used to hold together all the homeworks I've done for the bootcamp.
 
 ## Navigation
 
@@ -18,10 +22,6 @@ All homeworks are held together in the `src` directory.
 ## Bootcamp
 
 The bootcamp mentioned is the Advanced Solana Bootcamp by Patika.dev.
-
-## Description
-
-This repository is used to hold together all the homeworks I've done for the bootcamp.
 
 ## Usage
 
