@@ -24,11 +24,11 @@ In this homework, I am to create a simple Rust program that demonstrates the con
 
 ## Checklist
 
-- [ ] Write the `concatenate_strings` function signature.
-- [ ] Implement the `concatenate_strings` function.
-- [ ] Initialize two `String` variables in the `main` function.
-- [ ] Call the `concatenate_strings` function with string slices of the variables.
-- [ ] Print the result to the console.
+-  [x] Write the `concatenate_strings` function signature.
+-  [x] Implement the `concatenate_strings` function.
+-  [x] Initialize two `String` variables in the `main` function.
+-  [x] Call the `concatenate_strings` function with string slices of the variables.
+-  [x] Print the result to the console.
 
 ## Usage
 
